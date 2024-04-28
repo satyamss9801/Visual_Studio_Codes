@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Calculate Years", "Calculate Years\Calculate Years.vbproj", "{CCC05262-2728-419E-A6E8-5B94511D1A25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC05262-2728-419E-A6E8-5B94511D1A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC05262-2728-419E-A6E8-5B94511D1A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC05262-2728-419E-A6E8-5B94511D1A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC05262-2728-419E-A6E8-5B94511D1A25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

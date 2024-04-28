@@ -1,0 +1,13 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\purnea univercitty purnia\purnea univercitty purnia\bin\Debug\purnea univercitty purnia.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\purnea univercitty purnia\purnea univercitty purnia\bin\Debug\purnea univercitty purnia.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\purnea univercitty purnia\purnea univercitty purnia\bin\Debug\purnea univercitty purnia.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\purnea univercitty purnia\purnea univercitty purnia\bin\Debug\purnea univercitty purnia.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\purnea univercitty purnia\purnea univercitty purnia\obj\Debug\purnea_univercitty_purnia.Form1.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\purnea univercitty purnia\purnea univercitty purnia\obj\Debug\purnea_univercitty_purnia.mainform.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\purnea univercitty purnia\purnea univercitty purnia\obj\Debug\purnea_univercitty_purnia.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\purnea univercitty purnia\purnea univercitty purnia\obj\Debug\purnea univercitty purnia.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\purnea univercitty purnia\purnea univercitty purnia\obj\Debug\purnea univercitty purnia.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\purnea univercitty purnia\purnea univercitty purnia\obj\Debug\purnea univercitty purnia.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\purnea univercitty purnia\purnea univercitty purnia\obj\Debug\purnea univercitty purnia.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\purnea univercitty purnia\purnea univercitty purnia\obj\Debug\purnea_univercitty_purnia.Admission.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\purnea univercitty purnia\purnea univercitty purnia\obj\Debug\purnea_univercitty_purnia.Register.resources

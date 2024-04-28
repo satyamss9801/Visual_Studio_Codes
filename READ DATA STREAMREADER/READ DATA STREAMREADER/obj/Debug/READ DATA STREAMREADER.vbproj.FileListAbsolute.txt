@@ -1,0 +1,9 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\READ DATA STREAMREADER\READ DATA STREAMREADER\bin\Debug\READ DATA STREAMREADER.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\READ DATA STREAMREADER\READ DATA STREAMREADER\bin\Debug\READ DATA STREAMREADER.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\READ DATA STREAMREADER\READ DATA STREAMREADER\bin\Debug\READ DATA STREAMREADER.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\READ DATA STREAMREADER\READ DATA STREAMREADER\bin\Debug\READ DATA STREAMREADER.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\READ DATA STREAMREADER\READ DATA STREAMREADER\obj\Debug\READ_DATA_STREAMREADER.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\READ DATA STREAMREADER\READ DATA STREAMREADER\obj\Debug\READ DATA STREAMREADER.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\READ DATA STREAMREADER\READ DATA STREAMREADER\obj\Debug\READ DATA STREAMREADER.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\READ DATA STREAMREADER\READ DATA STREAMREADER\obj\Debug\READ DATA STREAMREADER.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\READ DATA STREAMREADER\READ DATA STREAMREADER\obj\Debug\READ DATA STREAMREADER.pdb

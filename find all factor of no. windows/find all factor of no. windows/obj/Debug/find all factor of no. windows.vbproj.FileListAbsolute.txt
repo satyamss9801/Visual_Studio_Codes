@@ -1,0 +1,10 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\find all factor of no. windows\find all factor of no. windows\bin\Debug\find_all_factor_of_no.windows.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\find all factor of no. windows\find all factor of no. windows\bin\Debug\find_all_factor_of_no.windows.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\find all factor of no. windows\find all factor of no. windows\bin\Debug\find_all_factor_of_no.windows.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\find all factor of no. windows\find all factor of no. windows\bin\Debug\find_all_factor_of_no.windows.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\find all factor of no. windows\find all factor of no. windows\obj\Debug\find_all_factor_of_no.windows.Form1.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\find all factor of no. windows\find all factor of no. windows\obj\Debug\find_all_factor_of_no.windows.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\find all factor of no. windows\find all factor of no. windows\obj\Debug\find all factor of no. windows.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\find all factor of no. windows\find all factor of no. windows\obj\Debug\find_all_factor_of_no.windows.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\find all factor of no. windows\find all factor of no. windows\obj\Debug\find_all_factor_of_no.windows.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\find all factor of no. windows\find all factor of no. windows\obj\Debug\find_all_factor_of_no.windows.pdb

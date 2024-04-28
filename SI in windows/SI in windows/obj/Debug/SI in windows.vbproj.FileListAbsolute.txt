@@ -1,0 +1,10 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\SI in windows\SI in windows\bin\Debug\SI in windows.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\SI in windows\SI in windows\bin\Debug\SI in windows.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\SI in windows\SI in windows\bin\Debug\SI in windows.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\SI in windows\SI in windows\bin\Debug\SI in windows.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\SI in windows\SI in windows\obj\Debug\SI_in_windows.Form1.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\SI in windows\SI in windows\obj\Debug\SI_in_windows.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\SI in windows\SI in windows\obj\Debug\SI in windows.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\SI in windows\SI in windows\obj\Debug\SI in windows.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\SI in windows\SI in windows\obj\Debug\SI in windows.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\SI in windows\SI in windows\obj\Debug\SI in windows.pdb

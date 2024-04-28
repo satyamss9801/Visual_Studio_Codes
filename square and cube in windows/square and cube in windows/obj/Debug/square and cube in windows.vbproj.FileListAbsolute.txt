@@ -1,0 +1,10 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\square and cube in windows\square and cube in windows\bin\Debug\square and cube in windows.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\square and cube in windows\square and cube in windows\bin\Debug\square and cube in windows.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\square and cube in windows\square and cube in windows\bin\Debug\square and cube in windows.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\square and cube in windows\square and cube in windows\bin\Debug\square and cube in windows.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\square and cube in windows\square and cube in windows\obj\Debug\square_and_cube_in_windows.Form1.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\square and cube in windows\square and cube in windows\obj\Debug\square_and_cube_in_windows.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\square and cube in windows\square and cube in windows\obj\Debug\square and cube in windows.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\square and cube in windows\square and cube in windows\obj\Debug\square and cube in windows.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\square and cube in windows\square and cube in windows\obj\Debug\square and cube in windows.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\square and cube in windows\square and cube in windows\obj\Debug\square and cube in windows.pdb

@@ -1,0 +1,9 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\EMP BONAS by WORK EXPERIENCE\EMP BONAS by WORK EXPERIENCE\bin\Debug\EMP BONAS by WORK EXPERIENCE.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\EMP BONAS by WORK EXPERIENCE\EMP BONAS by WORK EXPERIENCE\bin\Debug\EMP BONAS by WORK EXPERIENCE.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\EMP BONAS by WORK EXPERIENCE\EMP BONAS by WORK EXPERIENCE\bin\Debug\EMP BONAS by WORK EXPERIENCE.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\EMP BONAS by WORK EXPERIENCE\EMP BONAS by WORK EXPERIENCE\bin\Debug\EMP BONAS by WORK EXPERIENCE.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\EMP BONAS by WORK EXPERIENCE\EMP BONAS by WORK EXPERIENCE\obj\Debug\EMP_BONAS_by_WORK_EXPERIENCE.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\EMP BONAS by WORK EXPERIENCE\EMP BONAS by WORK EXPERIENCE\obj\Debug\EMP BONAS by WORK EXPERIENCE.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\EMP BONAS by WORK EXPERIENCE\EMP BONAS by WORK EXPERIENCE\obj\Debug\EMP BONAS by WORK EXPERIENCE.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\EMP BONAS by WORK EXPERIENCE\EMP BONAS by WORK EXPERIENCE\obj\Debug\EMP BONAS by WORK EXPERIENCE.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\EMP BONAS by WORK EXPERIENCE\EMP BONAS by WORK EXPERIENCE\obj\Debug\EMP BONAS by WORK EXPERIENCE.pdb

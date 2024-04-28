@@ -1,0 +1,10 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\Delivery checker\Delivery checker\bin\Debug\Delivery checker.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\Delivery checker\Delivery checker\bin\Debug\Delivery checker.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\Delivery checker\Delivery checker\bin\Debug\Delivery checker.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\Delivery checker\Delivery checker\bin\Debug\Delivery checker.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\Delivery checker\Delivery checker\obj\Debug\Delivery_checker.Form1.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\Delivery checker\Delivery checker\obj\Debug\Delivery_checker.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\Delivery checker\Delivery checker\obj\Debug\Delivery checker.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\Delivery checker\Delivery checker\obj\Debug\Delivery checker.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\Delivery checker\Delivery checker\obj\Debug\Delivery checker.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\Delivery checker\Delivery checker\obj\Debug\Delivery checker.pdb

@@ -1,0 +1,10 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\NOTEPAD BY SATYAM\NOTEPAD BY SATYAM\bin\Debug\NOTEPAD BY SATYAM.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\NOTEPAD BY SATYAM\NOTEPAD BY SATYAM\bin\Debug\NOTEPAD BY SATYAM.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\NOTEPAD BY SATYAM\NOTEPAD BY SATYAM\bin\Debug\NOTEPAD BY SATYAM.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\NOTEPAD BY SATYAM\NOTEPAD BY SATYAM\bin\Debug\NOTEPAD BY SATYAM.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\NOTEPAD BY SATYAM\NOTEPAD BY SATYAM\obj\Debug\NOTEPAD_BY_SATYAM.Form1.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\NOTEPAD BY SATYAM\NOTEPAD BY SATYAM\obj\Debug\NOTEPAD_BY_SATYAM.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\NOTEPAD BY SATYAM\NOTEPAD BY SATYAM\obj\Debug\NOTEPAD BY SATYAM.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\NOTEPAD BY SATYAM\NOTEPAD BY SATYAM\obj\Debug\NOTEPAD BY SATYAM.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\NOTEPAD BY SATYAM\NOTEPAD BY SATYAM\obj\Debug\NOTEPAD BY SATYAM.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\NOTEPAD BY SATYAM\NOTEPAD BY SATYAM\obj\Debug\NOTEPAD BY SATYAM.pdb

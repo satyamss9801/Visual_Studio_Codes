@@ -1,0 +1,10 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\check prime or not\check prime or not\bin\Debug\check prime or not.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\check prime or not\check prime or not\bin\Debug\check prime or not.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\check prime or not\check prime or not\bin\Debug\check prime or not.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\check prime or not\check prime or not\bin\Debug\check prime or not.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\check prime or not\check prime or not\obj\Debug\check_prime_or_not.Form1.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\check prime or not\check prime or not\obj\Debug\check_prime_or_not.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\check prime or not\check prime or not\obj\Debug\check prime or not.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\check prime or not\check prime or not\obj\Debug\check prime or not.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\check prime or not\check prime or not\obj\Debug\check prime or not.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\check prime or not\check prime or not\obj\Debug\check prime or not.pdb

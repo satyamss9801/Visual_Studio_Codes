@@ -1,0 +1,10 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\ELECTRIC BILL\ELECTRIC BILL\bin\Debug\ELECTRIC BILL.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\ELECTRIC BILL\ELECTRIC BILL\bin\Debug\ELECTRIC BILL.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\ELECTRIC BILL\ELECTRIC BILL\bin\Debug\ELECTRIC BILL.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\ELECTRIC BILL\ELECTRIC BILL\bin\Debug\ELECTRIC BILL.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\ELECTRIC BILL\ELECTRIC BILL\obj\Debug\ELECTRIC_BILL.Form1.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\ELECTRIC BILL\ELECTRIC BILL\obj\Debug\ELECTRIC_BILL.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\ELECTRIC BILL\ELECTRIC BILL\obj\Debug\ELECTRIC BILL.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\ELECTRIC BILL\ELECTRIC BILL\obj\Debug\ELECTRIC BILL.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\ELECTRIC BILL\ELECTRIC BILL\obj\Debug\ELECTRIC BILL.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\ELECTRIC BILL\ELECTRIC BILL\obj\Debug\ELECTRIC BILL.pdb

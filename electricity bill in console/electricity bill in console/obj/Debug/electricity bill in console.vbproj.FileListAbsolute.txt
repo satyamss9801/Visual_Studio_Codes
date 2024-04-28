@@ -1,0 +1,9 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\electricity bill in console\electricity bill in console\bin\Debug\electricity bill in console.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\electricity bill in console\electricity bill in console\bin\Debug\electricity bill in console.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\electricity bill in console\electricity bill in console\bin\Debug\electricity bill in console.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\electricity bill in console\electricity bill in console\bin\Debug\electricity bill in console.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\electricity bill in console\electricity bill in console\obj\Debug\electricity_bill_in_console.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\electricity bill in console\electricity bill in console\obj\Debug\electricity bill in console.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\electricity bill in console\electricity bill in console\obj\Debug\electricity bill in console.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\electricity bill in console\electricity bill in console\obj\Debug\electricity bill in console.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\electricity bill in console\electricity bill in console\obj\Debug\electricity bill in console.pdb

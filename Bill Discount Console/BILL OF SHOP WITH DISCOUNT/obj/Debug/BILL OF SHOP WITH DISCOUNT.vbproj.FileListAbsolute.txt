@@ -1,0 +1,9 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\BILL OF SHOP WITH DISCOUNT\BILL OF SHOP WITH DISCOUNT\bin\Debug\BILL OF SHOP WITH DISCOUNT.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\BILL OF SHOP WITH DISCOUNT\BILL OF SHOP WITH DISCOUNT\obj\Debug\BILL_OF_SHOP_WITH_DISCOUNT.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\BILL OF SHOP WITH DISCOUNT\BILL OF SHOP WITH DISCOUNT\obj\Debug\BILL OF SHOP WITH DISCOUNT.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\BILL OF SHOP WITH DISCOUNT\BILL OF SHOP WITH DISCOUNT\bin\Debug\BILL OF SHOP WITH DISCOUNT.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\BILL OF SHOP WITH DISCOUNT\BILL OF SHOP WITH DISCOUNT\bin\Debug\BILL OF SHOP WITH DISCOUNT.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\BILL OF SHOP WITH DISCOUNT\BILL OF SHOP WITH DISCOUNT\bin\Debug\BILL OF SHOP WITH DISCOUNT.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\BILL OF SHOP WITH DISCOUNT\BILL OF SHOP WITH DISCOUNT\obj\Debug\BILL OF SHOP WITH DISCOUNT.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\BILL OF SHOP WITH DISCOUNT\BILL OF SHOP WITH DISCOUNT\obj\Debug\BILL OF SHOP WITH DISCOUNT.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\BILL OF SHOP WITH DISCOUNT\BILL OF SHOP WITH DISCOUNT\obj\Debug\BILL OF SHOP WITH DISCOUNT.pdb

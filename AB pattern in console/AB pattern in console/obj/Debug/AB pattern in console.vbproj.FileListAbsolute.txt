@@ -1,0 +1,9 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\AB pattern in console\AB pattern in console\bin\Debug\AB pattern in console.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\AB pattern in console\AB pattern in console\bin\Debug\AB pattern in console.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\AB pattern in console\AB pattern in console\bin\Debug\AB pattern in console.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\AB pattern in console\AB pattern in console\bin\Debug\AB pattern in console.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\AB pattern in console\AB pattern in console\obj\Debug\AB_pattern_in_console.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\AB pattern in console\AB pattern in console\obj\Debug\AB pattern in console.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\AB pattern in console\AB pattern in console\obj\Debug\AB pattern in console.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\AB pattern in console\AB pattern in console\obj\Debug\AB pattern in console.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\AB pattern in console\AB pattern in console\obj\Debug\AB pattern in console.pdb

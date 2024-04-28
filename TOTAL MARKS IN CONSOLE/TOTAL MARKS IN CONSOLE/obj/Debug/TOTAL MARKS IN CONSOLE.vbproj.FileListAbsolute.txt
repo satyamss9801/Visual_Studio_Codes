@@ -1,0 +1,9 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\TOTAL MARKS IN CONSOLE\TOTAL MARKS IN CONSOLE\bin\Debug\TOTAL MARKS IN CONSOLE.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\TOTAL MARKS IN CONSOLE\TOTAL MARKS IN CONSOLE\bin\Debug\TOTAL MARKS IN CONSOLE.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\TOTAL MARKS IN CONSOLE\TOTAL MARKS IN CONSOLE\bin\Debug\TOTAL MARKS IN CONSOLE.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\TOTAL MARKS IN CONSOLE\TOTAL MARKS IN CONSOLE\bin\Debug\TOTAL MARKS IN CONSOLE.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\TOTAL MARKS IN CONSOLE\TOTAL MARKS IN CONSOLE\obj\Debug\TOTAL_MARKS_IN_CONSOLE.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\TOTAL MARKS IN CONSOLE\TOTAL MARKS IN CONSOLE\obj\Debug\TOTAL MARKS IN CONSOLE.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\TOTAL MARKS IN CONSOLE\TOTAL MARKS IN CONSOLE\obj\Debug\TOTAL MARKS IN CONSOLE.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\TOTAL MARKS IN CONSOLE\TOTAL MARKS IN CONSOLE\obj\Debug\TOTAL MARKS IN CONSOLE.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\TOTAL MARKS IN CONSOLE\TOTAL MARKS IN CONSOLE\obj\Debug\TOTAL MARKS IN CONSOLE.pdb

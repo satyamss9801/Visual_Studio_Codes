@@ -1,0 +1,9 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\123 digit pattern\123 digit pattern\bin\Debug\123 digit pattern.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\123 digit pattern\123 digit pattern\bin\Debug\123 digit pattern.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\123 digit pattern\123 digit pattern\bin\Debug\123 digit pattern.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\123 digit pattern\123 digit pattern\bin\Debug\123 digit pattern.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\123 digit pattern\123 digit pattern\obj\Debug\_123_digit_pattern.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\123 digit pattern\123 digit pattern\obj\Debug\123 digit pattern.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\123 digit pattern\123 digit pattern\obj\Debug\123 digit pattern.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\123 digit pattern\123 digit pattern\obj\Debug\123 digit pattern.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\123 digit pattern\123 digit pattern\obj\Debug\123 digit pattern.pdb

@@ -1,0 +1,10 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\factorial value in windows\factorial value in windows\bin\Debug\factorial value in windows.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\factorial value in windows\factorial value in windows\bin\Debug\factorial value in windows.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\factorial value in windows\factorial value in windows\bin\Debug\factorial value in windows.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\factorial value in windows\factorial value in windows\bin\Debug\factorial value in windows.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\factorial value in windows\factorial value in windows\obj\Debug\factorial_value_in_windows.Form1.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\factorial value in windows\factorial value in windows\obj\Debug\factorial_value_in_windows.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\factorial value in windows\factorial value in windows\obj\Debug\factorial value in windows.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\factorial value in windows\factorial value in windows\obj\Debug\factorial value in windows.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\factorial value in windows\factorial value in windows\obj\Debug\factorial value in windows.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\factorial value in windows\factorial value in windows\obj\Debug\factorial value in windows.pdb

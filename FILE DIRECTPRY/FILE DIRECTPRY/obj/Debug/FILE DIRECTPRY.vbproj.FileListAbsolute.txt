@@ -1,0 +1,10 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\FILE DIRECTPRY\FILE DIRECTPRY\bin\Debug\FILE DIRECTPRY.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\FILE DIRECTPRY\FILE DIRECTPRY\bin\Debug\FILE DIRECTPRY.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\FILE DIRECTPRY\FILE DIRECTPRY\bin\Debug\FILE DIRECTPRY.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\FILE DIRECTPRY\FILE DIRECTPRY\bin\Debug\FILE DIRECTPRY.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\FILE DIRECTPRY\FILE DIRECTPRY\obj\Debug\FILE_DIRECTPRY.Form1.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\FILE DIRECTPRY\FILE DIRECTPRY\obj\Debug\FILE_DIRECTPRY.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\FILE DIRECTPRY\FILE DIRECTPRY\obj\Debug\FILE DIRECTPRY.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\FILE DIRECTPRY\FILE DIRECTPRY\obj\Debug\FILE DIRECTPRY.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\FILE DIRECTPRY\FILE DIRECTPRY\obj\Debug\FILE DIRECTPRY.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\FILE DIRECTPRY\FILE DIRECTPRY\obj\Debug\FILE DIRECTPRY.pdb

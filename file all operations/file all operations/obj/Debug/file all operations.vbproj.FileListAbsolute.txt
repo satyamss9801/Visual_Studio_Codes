@@ -1,0 +1,10 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\file all operations\file all operations\bin\Debug\file all operations.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\file all operations\file all operations\bin\Debug\file all operations.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\file all operations\file all operations\bin\Debug\file all operations.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\file all operations\file all operations\bin\Debug\file all operations.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\file all operations\file all operations\obj\Debug\file_all_operations.Form1.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\file all operations\file all operations\obj\Debug\file_all_operations.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\file all operations\file all operations\obj\Debug\file all operations.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\file all operations\file all operations\obj\Debug\file all operations.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\file all operations\file all operations\obj\Debug\file all operations.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\file all operations\file all operations\obj\Debug\file all operations.pdb

@@ -1,0 +1,10 @@
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\chats and buttons\chats and buttons\bin\Debug\chats and buttons.exe.config
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\chats and buttons\chats and buttons\bin\Debug\chats and buttons.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\chats and buttons\chats and buttons\bin\Debug\chats and buttons.pdb
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\chats and buttons\chats and buttons\bin\Debug\chats and buttons.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\chats and buttons\chats and buttons\obj\Debug\chats_and_buttons.Form1.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\chats and buttons\chats and buttons\obj\Debug\chats_and_buttons.Resources.resources
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\chats and buttons\chats and buttons\obj\Debug\chats and buttons.vbproj.GenerateResource.Cache
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\chats and buttons\chats and buttons\obj\Debug\chats and buttons.exe
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\chats and buttons\chats and buttons\obj\Debug\chats and buttons.xml
+C:\Users\satyam kumar\OneDrive\Desktop\Documents\Visual Studio 2012\Projects\chats and buttons\chats and buttons\obj\Debug\chats and buttons.pdb
